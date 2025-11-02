@@ -1,0 +1,11 @@
+/* stylelint-disable declaration-no-important */
+.block_iframehelper-hidden {
+    display: none !important;
+}
+.block_iframehelper-nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: unset !important;
+    min-height: 100% !important;
+    width: 100% !important;
+}
